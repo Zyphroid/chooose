@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "European Quest",
+      "countries": 1,
+      "days": 1,
+      "emissionsOffset": 810,
+      "rating": 4.62,
+      "image": "https://media.istockphoto.com/id/1301663344/photo/sand-dunes-at-sunset.jpg?b=1&s=170667a&w=0&k=20&c=dhxTpQIEDSm_b3iFS4p5fCIFQP7kOB7MV3WgkttNEeA="
+    },
+    {
+      "id": "2",
+      "name": "Autumn Roadtrip",
+      "countries": 2,
+      "days": 2,
+      "emissionsOffset": 6200,
+      "rating": 4.6,
+      "image": "https://lindaontherun.com/wp-content/uploads/2020/09/Fall-road-trip-NY3.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Diving adventure in Egypt",
+      "countries": 43,
+      "days": 5,
+      "emissionsOffset": 2500,
+      "rating": 3.5,
+      "image": "https://www.divein.com/wp-content/uploads/Liveaboards/destinations/divein-featured-liveaboard-scuba-egypt.jpg"
+    }
+  ]
+}
